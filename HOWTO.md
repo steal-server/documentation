@@ -1,5 +1,5 @@
 # Topics
-## Development
+## Development Single Project (DON'T Means single Services)
 - use it as development server single directory using assetpipeline
 - use it as development server single directory using custom behavier via package.json
 - use it as development server single directory detect donejs stealjs enabled project.
@@ -17,3 +17,6 @@
 - Static / Dynamic Cache Layer
 - Static layer (data files so on)
 - Dynamic data aka API layers
+
+## Optional MultiProject (Hosting Indipendent Projects)
+but Manage Them all the Same Integrated way
